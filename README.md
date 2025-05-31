@@ -35,65 +35,96 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
 
 <h3 align="center">🤖 Outras tecnologias que também tenho conhecimento.</h3>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 10px; margin-top: 15px;">
-  <div style="width: 80px; text-align: center;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: block;">
-      <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="display: block; margin: 0 auto;" />
-      <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">HTML</div>
-    </a>
-  </div>
-  <div style="width: 80px; text-align: center;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: block;">
-      <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="display: block; margin: 0 auto;" />
-      <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">CSS</div>
-    </a>
-  </div>
-  <div style="width: 80px; text-align: center;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: block;">
-      <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="display: block; margin: 0 auto;" />
-      <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">JavaScript</div>
-    </a>
-  </div>
-  <div style="width: 80px; text-align: center;">
-    <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: block;">
-      <img alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="display: block; margin: 0 auto;" />
-      <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">TypeScript</div>
-    </a>
-  </div>
-  <div style="width: 80px; text-align: center;">
-    <a href="https://react.dev/learn" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: block;">
-      <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="display: block; margin: 0 auto;" />
-      <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">React</div>
-    </a>
-  </div>
-  <div style="width: 80px; text-align: center;">
-    <a href="https://nextjs.org/docs" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: block;">
-      <img alt="Next.js" title="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="display: block; margin: 0 auto;" />
-      <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">Next.js</div>
-    </a>
-  </div>
-  <div style="width: 80px; text-align: center;">
-    <a href="https://getbootstrap.com/docs/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: block;">
-      <img alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="display: block; margin: 0 auto;" />
-      <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">Bootstrap</div>
-    </a>
-  </div>
-  <div style="width: 80px; text-align: center;">
-    <a href="https://sass-lang.com/documentation/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: block;">
-      <img alt="SASS" title="SASS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" style="display: block; margin: 0 auto;" />
-      <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">SASS</div>
-    </a>
-  </div>
-  <div style="width: 80px; text-align: center;">
-    <a href="https://api.jquery.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: block;">
-      <img alt="JQuery" title="JQuery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" style="display: block; margin: 0 auto;" />
-      <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">JQuery</div>
-    </a>
-  </div>
-  <div style="width: 80px; text-align: center;">
-    <a href="https://help.figma.com/hc/en-us" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: block;">
-      <img alt="Figma" title="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="display: block; margin: 0 auto;" />
-      <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">Figma</div>
-    </a>
-  </div>
-</div>
+<p align="center" style="margin-top: 15px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
+    <img 
+        alt="HTML" 
+        title="HTML" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+        style="display: block; margin: 0 auto;" 
+    />
+    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">HTML</div>
+  </a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
+    <img 
+        alt="CSS" 
+        title="CSS"
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+        style="display: block; margin: 0 auto;" 
+    />
+    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">CSS</div>
+  </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
+    <img 
+        alt="JavaScript" 
+        title="JavaScript"
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+        style="display: block; margin: 0 auto;" 
+    />
+    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">JavaScript</div>
+  </a><a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
+    <img 
+        alt="TypeScript"
+        title="TypeScript" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+        style="display: block; margin: 0 auto;" 
+    />
+    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">TypeScript</div>
+  </a><a href="https://react.dev/learn" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
+    <img 
+        alt="React"
+        title="React" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+        style="display: block; margin: 0 auto;" 
+    />
+    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">React</div>
+  </a><a href="https://nextjs.org/docs" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
+    <img 
+        alt="Next.js" 
+        title="Next.js"
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+        style="display: block; margin: 0 auto;" 
+    />
+    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">Next.js</div>
+  </a><a href="https://getbootstrap.com/docs/" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
+    <img 
+        alt="Bootstrap"
+        title="Bootstrap" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+        style="display: block; margin: 0 auto;" 
+    />
+    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">Bootstrap</div>
+  </a><a href="https://sass-lang.com/documentation/" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
+    <img 
+        alt="SASS" 
+        title="SASS"
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
+        style="display: block; margin: 0 auto;" 
+    />
+    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">SASS</div>
+  </a><a href="https://api.jquery.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
+    <img 
+        alt="JQuery" 
+        title="JQuery"
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"
+        style="display: block; margin: 0 auto;" 
+    />
+    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">JQuery</div>
+  </a><a href="https://help.figma.com/hc/en-us" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
+    <img 
+        alt="Figma" 
+        title="Figma"
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+        style="display: block; margin: 0 auto;" 
+    />
+    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">Figma</div>
+  </a>
+</p>
