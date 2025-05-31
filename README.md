@@ -14,7 +14,7 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
 - **Ferramentas**: Python, SQL, Business Intelligence (BI), Power Automate, AWS, Docker, Git e etc.
 
 ### 🤖 Linguagens e Tecnologias
-
+<br/>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -23,7 +23,7 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
+<br/>
 
 - **Python**: Análise de dados, automação de tarefas e manipulação de dados.
 - **SQL**: Utilizando para fazer consultas, manipular e gerenciar informações em bancos de dados relacionais e **modelagem** de dados.
@@ -34,9 +34,10 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
 - **Git**: Utilizando para controle de versão de códigos e projetos, facilitando a colaboração e o acompanhamento de alterações em scripts e notebooks.
 
 <h3 align="center">🤖 Outras tecnologias que também tenho conhecimento.</h3>
+<br/>
 
-<p align="center" style="margin-top: 15px;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
+<div align="center" style="margin-top: 10px;">
+  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
     <img 
         alt="HTML" 
         title="HTML" 
@@ -45,7 +46,8 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
         style="display: block; margin: 0 auto;" 
     />
     <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">HTML</div>
-  </a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
+  </div>
+  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
     <img 
         alt="CSS" 
         title="CSS"
@@ -54,7 +56,8 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
         style="display: block; margin: 0 auto;" 
     />
     <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">CSS</div>
-  </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
+  </div>
+  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
     <img 
         alt="JavaScript" 
         title="JavaScript"
@@ -63,7 +66,8 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
         style="display: block; margin: 0 auto;" 
     />
     <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">JavaScript</div>
-  </a><a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
+  </div>
+  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
     <img 
         alt="TypeScript"
         title="TypeScript" 
@@ -72,7 +76,8 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
         style="display: block; margin: 0 auto;" 
     />
     <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">TypeScript</div>
-  </a><a href="https://react.dev/learn" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
+  </div>
+  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
     <img 
         alt="React"
         title="React" 
@@ -81,7 +86,8 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
         style="display: block; margin: 0 auto;" 
     />
     <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">React</div>
-  </a><a href="https://nextjs.org/docs" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
+  </div>
+  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
     <img 
         alt="Next.js" 
         title="Next.js"
@@ -90,7 +96,8 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
         style="display: block; margin: 0 auto;" 
     />
     <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">Next.js</div>
-  </a><a href="https://getbootstrap.com/docs/" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
+  </div>
+  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
     <img 
         alt="Bootstrap"
         title="Bootstrap" 
@@ -99,7 +106,8 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
         style="display: block; margin: 0 auto;" 
     />
     <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">Bootstrap</div>
-  </a><a href="https://sass-lang.com/documentation/" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
+  </div>
+  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
     <img 
         alt="SASS" 
         title="SASS"
@@ -108,23 +116,5 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
         style="display: block; margin: 0 auto;" 
     />
     <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">SASS</div>
-  </a><a href="https://api.jquery.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
-    <img 
-        alt="JQuery" 
-        title="JQuery"
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"
-        style="display: block; margin: 0 auto;" 
-    />
-    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">JQuery</div>
-  </a><a href="https://help.figma.com/hc/en-us" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top; text-decoration: none !important; color: inherit !important;">
-    <img 
-        alt="Figma" 
-        title="Figma"
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-        style="display: block; margin: 0 auto;" 
-    />
-    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">Figma</div>
-  </a>
-</p>
+  </div>
+  <div style="display: inline-block; width: 80px; text-
