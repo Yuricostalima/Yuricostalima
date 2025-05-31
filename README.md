@@ -33,88 +33,98 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
 - **Docker**: Aprendendo a usar containers para empacotar aplicações e criar ambientes de desenvolvimento consistentes, visando facilitar a gestão de projetos de dados.
 - **Git**: Utilizando para controle de versão de códigos e projetos, facilitando a colaboração e o acompanhamento de alterações em scripts e notebooks.
 
-<h3 align="center">🤖 Outras tecnologias que também tenho conhecimento.</h3>
-<br/>
+<div style="text-align: center;">
+  <h3>🤖 Outras tecnologias que também tenho conhecimento</h3>
+  <br/>
 
-<div align="center" style="margin-top: 10px;">
-  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img 
-        alt="HTML" 
-        title="HTML" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-        style="display: block; margin: 0 auto;" 
+      alt="HTML"
+      title="HTML" 
+      width="30px" 
+      style="padding-right: 10px; vertical-align: middle;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
     />
-    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">HTML</div>
-  </div>
-  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
     <img 
-        alt="CSS" 
-        title="CSS"
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-        style="display: block; margin: 0 auto;" 
+      alt="CSS" 
+      title="CSS"
+      width="30px" 
+      style="padding-right: 10px; vertical-align: middle;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
-    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">CSS</div>
-  </div>
-  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     <img 
-        alt="JavaScript" 
-        title="JavaScript"
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-        style="display: block; margin: 0 auto;" 
+      alt="JavaScript" 
+      title="JavaScript"
+      width="30px" 
+      style="padding-right: 10px; vertical-align: middle;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
-    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">JavaScript</div>
-  </div>
-  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
+  </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noopener noreferrer">
     <img 
-        alt="TypeScript"
-        title="TypeScript" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-        style="display: block; margin: 0 auto;" 
+      alt="TypeScript"
+      title="TypeScript" 
+      width="30px" 
+      style="padding-right: 10px; vertical-align: middle;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
     />
-    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">TypeScript</div>
-  </div>
-  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
+  </a>
+  <a href="https://react.dev/learn" target="_blank" rel="noopener noreferrer">
     <img 
-        alt="React"
-        title="React" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-        style="display: block; margin: 0 auto;" 
+      alt="React"
+      title="React" 
+      width="30px" 
+      style="padding-right: 10px; vertical-align: middle;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
     />
-    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">React</div>
-  </div>
-  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
+  </a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noopener noreferrer">
     <img 
-        alt="Next.js" 
-        title="Next.js"
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-        style="display: block; margin: 0 auto;" 
+      alt="Next.js" 
+      title="Next.js"
+      width="30px" 
+      style="padding-right: 10px; vertical-align: middle;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
     />
-    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">Next.js</div>
-  </div>
-  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
+  </a>
+  <a href="https://getbootstrap.com/docs/" target="_blank" rel="noopener noreferrer">
     <img 
-        alt="Bootstrap"
-        title="Bootstrap" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-        style="display: block; margin: 0 auto;" 
+      alt="Bootstrap"
+      title="Bootstrap" 
+      width="30px" 
+      style="padding-right: 10px; vertical-align: middle;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
     />
-    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">Bootstrap</div>
-  </div>
-  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
+  </a>
+  <a href="https://sass-lang.com/documentation/" target="_blank" rel="noopener noreferrer">
     <img 
-        alt="SASS" 
-        title="SASS"
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
-        style="display: block; margin: 0 auto;" 
+      alt="SASS" 
+      title="SASS"
+      width="30px" 
+      style="padding-right: 10px; vertical-align: middle;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
     />
-    <div style="font-size: 12px; margin-top: 2px; word-wrap: break-word;">SASS</div>
-  </div>
-  <div style="display: inline-block; width: 80px; text-
+  </a>
+  <a href="https://api.jquery.com/" target="_blank" rel="noopener noreferrer">
+    <img 
+      alt="JQuery" 
+      title="JQuery"
+      width="30px" 
+      style="padding-right: 10px; vertical-align: middle;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    />
+  </a>
+  <a href="https://help.figma.com/hc/en-us" target="_blank" rel="noopener noreferrer">
+    <img 
+      alt="Figma" 
+      title="Figma"
+      width="30px" 
+      style="padding-right: 10px; vertical-align: middle;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+    />
+  </a>
+</div>
