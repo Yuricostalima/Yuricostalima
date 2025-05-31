@@ -33,98 +33,106 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
 - **Docker**: Aprendendo a usar containers para empacotar aplicações e criar ambientes de desenvolvimento consistentes, visando facilitar a gestão de projetos de dados.
 - **Git**: Utilizando para controle de versão de códigos e projetos, facilitando a colaboração e o acompanhamento de alterações em scripts e notebooks.
 
-<div style="text-align: center;">
-  <h3>🤖 Outras tecnologias que também tenho conhecimento</h3>
-  <br/>
+### 🤖 Outras tecnologias que também tenho conhecimento
+<br/>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-    <img 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+  <img 
+      align="left" 
       alt="HTML"
       title="HTML" 
       width="30px" 
-      style="padding-right: 10px; vertical-align: middle;" 
+      style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-    <img 
+  />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+  <img 
+      align="left" 
       alt="CSS" 
       title="CSS"
       width="30px" 
-      style="padding-right: 10px; vertical-align: middle;" 
+      style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img 
+  />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+  <img 
+      align="left" 
       alt="JavaScript" 
       title="JavaScript"
       width="30px" 
-      style="padding-right: 10px; vertical-align: middle;" 
+      style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noopener noreferrer">
-    <img 
+  />
+</a>
+<a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noopener noreferrer">
+  <img 
+      align="left" 
       alt="TypeScript"
       title="TypeScript" 
       width="30px" 
-      style="padding-right: 10px; vertical-align: middle;" 
+      style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-    />
-  </a>
-  <a href="https://react.dev/learn" target="_blank" rel="noopener noreferrer">
-    <img 
+  />
+</a>
+<a href="https://react.dev/learn" target="_blank" rel="noopener noreferrer">
+  <img 
+      align="left" 
       alt="React"
       title="React" 
       width="30px" 
-      style="padding-right: 10px; vertical-align: middle;" 
+      style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-    />
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noopener noreferrer">
-    <img 
+  />
+</a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noopener noreferrer">
+  <img 
+      align="left" 
       alt="Next.js" 
       title="Next.js"
       width="30px" 
-      style="padding-right: 10px; vertical-align: middle;" 
+      style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-    />
-  </a>
-  <a href="https://getbootstrap.com/docs/" target="_blank" rel="noopener noreferrer">
-    <img 
+  />
+</a>
+<a href="https://getbootstrap.com/docs/" target="_blank" rel="noopener noreferrer">
+  <img 
+      align="left" 
       alt="Bootstrap"
       title="Bootstrap" 
       width="30px" 
-      style="padding-right: 10px; vertical-align: middle;" 
+      style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-    />
-  </a>
-  <a href="https://sass-lang.com/documentation/" target="_blank" rel="noopener noreferrer">
-    <img 
+  />
+</a>
+<a href="https://sass-lang.com/documentation/" target="_blank" rel="noopener noreferrer">
+  <img 
+      align="left" 
       alt="SASS" 
       title="SASS"
       width="30px" 
-      style="padding-right: 10px; vertical-align: middle;" 
+      style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-    />
-  </a>
-  <a href="https://api.jquery.com/" target="_blank" rel="noopener noreferrer">
-    <img 
+  />
+</a>
+<a href="https://api.jquery.com/" target="_blank" rel="noopener noreferrer">
+  <img 
+      align="left" 
       alt="JQuery" 
       title="JQuery"
       width="30px" 
-      style="padding-right: 10px; vertical-align: middle;" 
+      style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-    />
-  </a>
-  <a href="https://help.figma.com/hc/en-us" target="_blank" rel="noopener noreferrer">
-    <img 
+  />
+</a>
+<a href="https://help.figma.com/hc/en-us" target="_blank" rel="noopener noreferrer">
+  <img 
+      align="left" 
       alt="Figma" 
       title="Figma"
       width="30px" 
-      style="padding-right: 10px; vertical-align: middle;" 
+      style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-    />
-  </a>
-</div>
+  />
+</a>
