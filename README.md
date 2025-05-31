@@ -33,11 +33,10 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
 - **Docker**: Aprendendo a usar containers para empacotar aplicações e criar ambientes de desenvolvimento consistentes, visando facilitar a gestão de projetos de dados.
 - **Git**: Utilizando para controle de versão de códigos e projetos, facilitando a colaboração e o acompanhamento de alterações em scripts e notebooks.
 
-
 <h3 align="center">🤖 Outras tecnologias que também tenho conhecimento.</h3>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 10px; margin-top: 15px;">
-  <div style="width: 80px; text-align: center;">
+<p align="center" style="margin-top: 15px; line-height: 1.4;">
+  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
     <img 
         alt="HTML" 
         title="HTML" 
@@ -46,7 +45,7 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
     />
     <div style="font-size: 12px; margin-top: 5px; word-wrap: break-word;">HTML</div>
   </div>
-  <div style="width: 80px; text-align: center;">
+  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
     <img 
         alt="CSS" 
         title="CSS"
@@ -55,7 +54,7 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
     />
     <div style="font-size: 12px; margin-top: 5px; word-wrap: break-word;">CSS</div>
   </div>
-  <div style="width: 80px; text-align: center;">
+  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
     <img 
         alt="JavaScript" 
         title="JavaScript"
@@ -64,7 +63,7 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
     />
     <div style="font-size: 12px; margin-top: 5px; word-wrap: break-word;">JavaScript</div>
   </div>
-  <div style="width: 80px; text-align: center;">
+  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
     <img 
         alt="TypeScript"
         title="TypeScript" 
@@ -73,7 +72,7 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
     />
     <div style="font-size: 12px; margin-top: 5px; word-wrap: break-word;">TypeScript</div>
   </div>
-  <div style="width: 80px; text-align: center;">
+  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
     <img 
         alt="React"
         title="React" 
@@ -82,7 +81,7 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
     />
     <div style="font-size: 12px; margin-top: 5px; word-wrap: break-word;">React</div>
   </div>
-  <div style="width: 80px; text-align: center;">
+  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
     <img 
         alt="Next.js" 
         title="Next.js"
@@ -91,7 +90,7 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
     />
     <div style="font-size: 12px; margin-top: 5px; word-wrap: break-word;">Next.js</div>
   </div>
-  <div style="width: 80px; text-align: center;">
+  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
     <img 
         alt="Bootstrap"
         title="Bootstrap" 
@@ -100,7 +99,7 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
     />
     <div style="font-size: 12px; margin-top: 5px; word-wrap: break-word;">Bootstrap</div>
   </div>
-  <div style="width: 80px; text-align: center;">
+  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
     <img 
         alt="SASS" 
         title="SASS"
@@ -109,7 +108,7 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
     />
     <div style="font-size: 12px; margin-top: 5px; word-wrap: break-word;">SASS</div>
   </div>
-  <div style="width: 80px; text-align: center;">
+  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
     <img 
         alt="JQuery" 
         title="JQuery"
@@ -118,7 +117,7 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
     />
     <div style="font-size: 12px; margin-top: 5px; word-wrap: break-word;">JQuery</div>
   </div>
-  <div style="width: 80px; text-align: center;">
+  <div style="display: inline-block; width: 80px; text-align: center; margin: 5px; vertical-align: top;">
     <img 
         alt="Figma" 
         title="Figma"
@@ -127,4 +126,4 @@ Olá! Sou Yuri Costa, desenvolvedor FullStack em transição para a área de Dad
     />
     <div style="font-size: 12px; margin-top: 5px; word-wrap: break-word;">Figma</div>
   </div>
-</div>
+</p>
